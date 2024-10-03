@@ -1,0 +1,17 @@
+B:\.2024-25\CS\ip11_0925\ip11_0925\bin\Debug\net8.0\ip11_0925.exe
+B:\.2024-25\CS\ip11_0925\ip11_0925\bin\Debug\net8.0\ip11_0925.deps.json
+B:\.2024-25\CS\ip11_0925\ip11_0925\bin\Debug\net8.0\ip11_0925.runtimeconfig.json
+B:\.2024-25\CS\ip11_0925\ip11_0925\bin\Debug\net8.0\ip11_0925.dll
+B:\.2024-25\CS\ip11_0925\ip11_0925\bin\Debug\net8.0\ip11_0925.pdb
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.GeneratedMSBuildEditorConfig.editorconfig
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.AssemblyInfoInputs.cache
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.AssemblyInfo.cs
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.csproj.CoreCompileInputs.cache
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.dll
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\refint\ip11_0925.dll
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.pdb
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.genruntimeconfig.cache
+B:\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ref\ip11_0925.dll
+\\Lenovo-l340\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.dll
+\\Lenovo-l340\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\refint\ip11_0925.dll
+\\Lenovo-l340\.2024-25\CS\ip11_0925\ip11_0925\obj\Debug\net8.0\ip11_0925.pdb

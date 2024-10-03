@@ -1,0 +1,14 @@
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\bin\Debug\net8.0\rendezes performance test.exe
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\bin\Debug\net8.0\rendezes performance test.deps.json
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\bin\Debug\net8.0\rendezes performance test.runtimeconfig.json
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\bin\Debug\net8.0\rendezes performance test.dll
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\bin\Debug\net8.0\rendezes performance test.pdb
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.GeneratedMSBuildEditorConfig.editorconfig
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.AssemblyInfoInputs.cache
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.AssemblyInfo.cs
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.csproj.CoreCompileInputs.cache
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.dll
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\refint\rendezes performance test.dll
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.pdb
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\rendezes performance test.genruntimeconfig.cache
+B:\.2024-25\CS\rendezes performance test\rendezes performance test\obj\Debug\net8.0\ref\rendezes performance test.dll

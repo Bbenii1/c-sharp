@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ip11_atadasok/1.0.0": {
+        "runtime": {
+          "ip11_atadasok.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ip11_atadasok/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
