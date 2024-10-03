@@ -1,0 +1,10 @@
+B:\.2024-25\C#\Form1\Form1\bin\Debug\Form1.exe.config
+B:\.2024-25\C#\Form1\Form1\bin\Debug\Form1.exe
+B:\.2024-25\C#\Form1\Form1\bin\Debug\Form1.pdb
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.exe
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.pdb
+B:\.2024-25\C#\Form1\Form1\obj\Debug\Form1.Form1.resources

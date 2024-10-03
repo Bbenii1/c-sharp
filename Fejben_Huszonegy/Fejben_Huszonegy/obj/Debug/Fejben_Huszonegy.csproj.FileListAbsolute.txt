@@ -1,0 +1,10 @@
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\bin\Debug\Fejben_Huszonegy.exe.config
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\bin\Debug\Fejben_Huszonegy.exe
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\bin\Debug\Fejben_Huszonegy.pdb
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.csproj.AssemblyReference.cache
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.Form1.resources
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.Properties.Resources.resources
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.csproj.GenerateResource.cache
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.csproj.CoreCompileInputs.cache
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.exe
+B:\.2024-25\C#\Fejben_Huszonegy\Fejben_Huszonegy\obj\Debug\Fejben_Huszonegy.pdb
