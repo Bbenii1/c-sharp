@@ -1,0 +1,10 @@
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\bin\Debug\forms_20241008.exe.config
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\bin\Debug\forms_20241008.exe
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\bin\Debug\forms_20241008.pdb
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.csproj.AssemblyReference.cache
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.Form1.resources
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.Properties.Resources.resources
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.csproj.GenerateResource.cache
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.csproj.CoreCompileInputs.cache
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.exe
+C:\Users\koloz\Documents\Files\Iskola\2024-25\c#\forms_20241008\forms_20241008\obj\Debug\forms_20241008.pdb
