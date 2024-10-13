@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("halmaz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2cff1bd85d418f7d2fb26720c8f5d49e76e4902")]
 [assembly: System.Reflection.AssemblyProductAttribute("halmaz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("halmaz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

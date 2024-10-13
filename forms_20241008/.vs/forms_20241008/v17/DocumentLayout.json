@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\forms_20241008\\",
+  "WorkspaceRootPath": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\c-\\forms_20241008\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4671CB23-200B-4BD9-95BB-C021CE13EE0E}|forms_20241008\\forms_20241008.csproj|c:\\users\\koloz\\documents\\files\\iskola\\2024-25\\c#\\forms_20241008\\forms_20241008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4671CB23-200B-4BD9-95BB-C021CE13EE0E}|forms_20241008\\forms_20241008.csproj|c:\\users\\koloz\\documents\\files\\iskola\\2024-25\\c#\\c-\\forms_20241008\\forms_20241008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4671CB23-200B-4BD9-95BB-C021CE13EE0E}|forms_20241008\\forms_20241008.csproj|solutionrelative:forms_20241008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4671CB23-200B-4BD9-95BB-C021CE13EE0E}|forms_20241008\\forms_20241008.csproj|c:\\users\\koloz\\documents\\files\\iskola\\2024-25\\c#\\forms_20241008\\forms_20241008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4671CB23-200B-4BD9-95BB-C021CE13EE0E}|forms_20241008\\forms_20241008.csproj|solutionrelative:forms_20241008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\forms_20241008\\forms_20241008\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\c-\\forms_20241008\\forms_20241008\\Form1.cs",
               "RelativeDocumentMoniker": "forms_20241008\\Form1.cs",
-              "ToolTip": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\forms_20241008\\forms_20241008\\Form1.cs",
+              "ToolTip": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\c-\\forms_20241008\\forms_20241008\\Form1.cs",
               "RelativeToolTip": "forms_20241008\\Form1.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAYwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T06:31:34.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\forms_20241008\\forms_20241008\\Program.cs",
-              "RelativeDocumentMoniker": "forms_20241008\\Program.cs",
-              "ToolTip": "C:\\Users\\koloz\\Documents\\Files\\Iskola\\2024-25\\c#\\forms_20241008\\forms_20241008\\Program.cs",
-              "RelativeToolTip": "forms_20241008\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:06:04.128Z",
               "EditorCaption": ""
             }
           ]
