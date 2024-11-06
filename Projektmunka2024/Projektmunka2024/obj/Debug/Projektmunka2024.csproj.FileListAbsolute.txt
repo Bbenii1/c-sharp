@@ -1,0 +1,9 @@
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\obj\Debug\Projektmunka2024.csproj.AssemblyReference.cache
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\obj\Debug\Projektmunka2024.Properties.Resources.resources
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\obj\Debug\Projektmunka2024.csproj.GenerateResource.cache
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\obj\Debug\Projektmunka2024.csproj.CoreCompileInputs.cache
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\bin\Debug\Projektmunka2024.exe.config
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\bin\Debug\Projektmunka2024.exe
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\bin\Debug\Projektmunka2024.pdb
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\obj\Debug\Projektmunka2024.exe
+B:\.2024-25\C#\Projektmunka2024\Projektmunka2024\obj\Debug\Projektmunka2024.pdb
