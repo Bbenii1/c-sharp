@@ -1,0 +1,14 @@
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\bin\Debug\net8.0\_11ip_ismetles.exe
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\bin\Debug\net8.0\_11ip_ismetles.deps.json
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\bin\Debug\net8.0\_11ip_ismetles.runtimeconfig.json
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\bin\Debug\net8.0\_11ip_ismetles.dll
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\bin\Debug\net8.0\_11ip_ismetles.pdb
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.GeneratedMSBuildEditorConfig.editorconfig
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.AssemblyInfoInputs.cache
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.AssemblyInfo.cs
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.csproj.CoreCompileInputs.cache
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.dll
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\refint\_11ip_ismetles.dll
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.pdb
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\_11ip_ismetles.genruntimeconfig.cache
+B:\.2024-25\C#\_11ip_ismetles\_11ip_ismetles\obj\Debug\net8.0\ref\_11ip_ismetles.dll
